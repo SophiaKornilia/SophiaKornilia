@@ -21,6 +21,6 @@ In addition to being a developer, I am a certified teacher (*grundskolelärare f
 
 ### 📫 How to reach me:
 - Email: [info@kornilia.com](mailto:info@kornilia.com)
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kornilia-adabugday-353695b8/)
+- LinkedIn: [My profile](https://www.linkedin.com/in/kornilia-adabugday-353695b8/)
 
 
