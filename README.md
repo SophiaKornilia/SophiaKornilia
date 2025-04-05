@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Kornilia, a **full-stack developer** with a ba
 In addition to being a developer, I am a certified teacher (*grundskolelärare för F-3 med lärarlegitimation*). My pedagogical background has given me strong communication skills, a structured approach to problem-solving, and the ability to work effectively in teams. I enjoy combining these strengths with my passion for coding.
 
 ### 📫 How to reach me:
-- Email: [info@kornilia.com](mailto:korniliaadabugday@gmail.com)
+- Email: [korniliaadabugday@gmail.com](mailto:korniliaadabugday@gmail.com)
 - LinkedIn: [My profile](https://www.linkedin.com/in/kornilia-adabugday-353695b8/)
 
 
